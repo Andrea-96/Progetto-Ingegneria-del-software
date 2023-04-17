@@ -1,14 +1,6 @@
 # Progetto-ingegneria-del-software
 Sviluppo, in Java, del gioco da tavolo per PC Adrenalina di Cranio Creations.
 
-#membri del gruppo
-
-Selva Marco
-
-Tresoldi Andrea
-
-Zani Simone
-
 #AVVIO DELLA PARTITA
 
 L' avvio della partita si ha dalla bash di git per la corretta visualizzazione dei colori lato CLI.
